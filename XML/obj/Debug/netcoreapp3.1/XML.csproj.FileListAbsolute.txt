@@ -1,0 +1,13 @@
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Anteckningar\XML-serialisering\XML\bin\Debug\netcoreapp3.1\XML.exe
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Anteckningar\XML-serialisering\XML\bin\Debug\netcoreapp3.1\XML.deps.json
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Anteckningar\XML-serialisering\XML\bin\Debug\netcoreapp3.1\XML.runtimeconfig.json
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Anteckningar\XML-serialisering\XML\bin\Debug\netcoreapp3.1\XML.runtimeconfig.dev.json
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Anteckningar\XML-serialisering\XML\bin\Debug\netcoreapp3.1\XML.dll
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Anteckningar\XML-serialisering\XML\bin\Debug\netcoreapp3.1\XML.pdb
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Anteckningar\XML-serialisering\XML\obj\Debug\netcoreapp3.1\XML.csprojAssemblyReference.cache
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Anteckningar\XML-serialisering\XML\obj\Debug\netcoreapp3.1\XML.AssemblyInfoInputs.cache
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Anteckningar\XML-serialisering\XML\obj\Debug\netcoreapp3.1\XML.AssemblyInfo.cs
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Anteckningar\XML-serialisering\XML\obj\Debug\netcoreapp3.1\XML.csproj.CoreCompileInputs.cache
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Anteckningar\XML-serialisering\XML\obj\Debug\netcoreapp3.1\XML.dll
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Anteckningar\XML-serialisering\XML\obj\Debug\netcoreapp3.1\XML.pdb
+C:\Users\love.winelid\Documents\GitHub\Programmering 2\Anteckningar\XML-serialisering\XML\obj\Debug\netcoreapp3.1\XML.genruntimeconfig.cache

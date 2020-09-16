@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PowerUp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <x>4</x>
+  <y>3</y>
+  <name>mana potion</name>
+</PowerUp>
