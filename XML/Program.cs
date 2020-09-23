@@ -8,7 +8,7 @@ namespace XML
     {
         static void Main(string[] args)
         {
-            // PowerUp p = new PowerUp();
+            // PowerUp p = new PowerUp(); 
 
             // p.name = "fungi";
             // p.x = 4;
